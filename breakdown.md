@@ -10,8 +10,10 @@ This means you should not upload thumbnails for recent tab levels (at least rece
 ### Find a relevant part of the level
 You should place up a part of the level that looks fun or the most iconical one, since uploading thumbnails on the first 10 percent of the level is just a disgrace to Thumbnail Moderators.
 
-# THIS IS A WORK ON PROGRESS AND ITS STILL NOT DONE!!!!
-# THIS IS A WORK ON PROGRESS AND ITS STILL NOT DONE!!!!
-# THIS IS A WORK ON PROGRESS AND ITS STILL NOT DONE!!!!
-# THIS IS A WORK ON PROGRESS AND ITS STILL NOT DONE!!!!
-# THIS IS A WORK ON PROGRESS AND ITS STILL NOT DONE!!!!
+### Between others...
+
+## Anyways...
+
+Consider checking the submission rules in their Discord Server.
+
+Renember this is a short breakdown of what Level Thumbnails is.
