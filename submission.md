@@ -22,3 +22,5 @@ You will get inside the dashboard.
   **d)** Click the Link button. Take in mind this is irreversible and your geometry dash account will be linked to the mod forever.
 
   > Also, renember setting your Thumbnails API URL to the default one (levelthumbs.prevter.me). If you try to do it with another url, such as Anarchy Thumbnails, the linking will eventually fail.
+
+[![Next](https://github.com/user-attachments/assets/88010d40-4533-432b-8553-99c4bd85ce0c)](submission2.md)
