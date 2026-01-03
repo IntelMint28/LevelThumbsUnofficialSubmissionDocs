@@ -5,7 +5,7 @@ Hello! These are the unnofficial Level Thumbnails submission documentation! A Ge
 
 ### [Breakdown](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/blob/main/breakdown.md)
 
-### [Submission Instructions](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/blob/main/submission.md) **[UNDONE]**
+### [Submission Instructions](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/blob/main/submission.md)
 
 ### [Errors Explanation](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/blob/main/errors.md) **[UNDONE]**
 
