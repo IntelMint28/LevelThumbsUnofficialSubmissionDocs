@@ -17,7 +17,7 @@ You will get inside the dashboard.
   
   **b)** Open to Geometry Dash and go to the settings for the Level Thumbnails mod.
   
-  **c)** Scroll all the way to the bottom until you see the 'Link Account' setting all the way to the botton and paste your secret token to the text box.
+  **c)** Scroll all the way to the bottom until you see the 'Link Account' setting and paste your secret token to the text box.
 
   **d)** Click the Link button. Take in mind this is irreversible and your geometry dash account will be linked to the mod forever.
 
