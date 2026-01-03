@@ -21,7 +21,7 @@ Play through a decent bit of the level, then once you reach a part that you feel
 
 Here's a video tutorial, in case you need it!
 
--# Video by dermuk
+> **Video by dermuk**
 
 https://github.com/user-attachments/assets/6be9e63b-76ac-4999-9414-1f77755e60e1
 
