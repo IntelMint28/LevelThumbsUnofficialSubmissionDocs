@@ -1,4 +1,5 @@
-# Level Thumbnails Unofficial Submission Documentation
+<img width="1800" height="561" alt="image" src="https://github.com/user-attachments/assets/33933046-c7c1-475e-98de-cbc07f1226e8" />
+
 Hello! These are the unnofficial Level Thumbnails submission documentation! A Geometry Dash Mod that adds thumbnails into levels.
 
 ## Please check the following resources:
