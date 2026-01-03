@@ -17,3 +17,5 @@ You should place up a part of the level that looks fun or the most iconical one,
 Consider checking the submission rules in their Discord Server.
 
 Renember this is a short breakdown of what Level Thumbnails is.
+
+[![Home](https://github.com/user-attachments/assets/9b815cee-9432-4dce-9c03-c8c904472c93)](README.md)
