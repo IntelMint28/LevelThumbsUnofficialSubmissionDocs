@@ -1,4 +1,4 @@
-## Level Thumbnails Unofficial Submission Documentation
+# Level Thumbnails Unofficial Submission Documentation
 Hello! These are the unnofficial Level Thumbnails submission documentation! A Geometry Dash Mod that adds thumbnails into levels.
 
 ## Please check the following resources:
@@ -18,4 +18,4 @@ Hello! These are the unnofficial Level Thumbnails submission documentation! A Ge
 ### [Geode Website Link](https://geode-sdk.org/mods/cdc.level_thumbnails)
 
 
-> Written fully by Intel28
+> Written by Intel28
