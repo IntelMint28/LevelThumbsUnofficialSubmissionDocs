@@ -39,3 +39,5 @@ If you are a **Verified Thumbnailer** and you still can't upload thumbnails, it 
 To fix the issue, you may request [prevter](https://prevter.me) to add you to his database as a Verified Thumbnailer, this way skipping the error entirely.
 
 If you are ***NOT*** a **Verified Thumbnailer**, do not even try to do the thing above.
+
+[![Home](https://github.com/user-attachments/assets/9b815cee-9432-4dce-9c03-c8c904472c93)](README.md)
