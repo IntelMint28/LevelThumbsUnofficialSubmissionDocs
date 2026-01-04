@@ -1,5 +1,5 @@
 # Better Level Thumbnails
-Better Level Thumbnails (or abbreviated as **BetterThumbnails** or **BetterThumbs**) is an extension for the Level Thumbnails Geometry Dash mod, created by TJC42.
+Better Level Thumbnails (or abbreviated as **BetterThumbnails** or **BetterThumbs**) is an extension for the Level Thumbnails Geometry Dash mod, created by TJC47.
 
 ## Functionality
 You basically copy and paste the [Level Thumbnails Dashboard](https://levelthumbs.prevter.me/dashboard) inside Geometry Dash, with a cool thumbnail as background.
@@ -8,4 +8,9 @@ You basically copy and paste the [Level Thumbnails Dashboard](https://levelthumb
 
 > All your stadistics are based on [prevter](https://prevter.me)'s database.
 
-### *[Download!](https://guthib.com)*
+## Depencencies
+- Level Thumbnails mod
+- Linked GD account to mod
+  
+### *[Download!](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/raw/refs/heads/main/media/tjc47.better_level_thumbnails.geode)*
+
