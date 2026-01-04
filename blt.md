@@ -1,4 +1,6 @@
 # Better Level Thumbnails
+<img width="100" height="100" alt="Better Thumbnails Logo" src="https://github.com/TJC47/betterThumbnails/blob/main/logo.png" />
+
 Better Level Thumbnails (or abbreviated as **BetterThumbnails** or **BetterThumbs**) is an extension for the Level Thumbnails Geometry Dash mod, created by TJC47.
 
 ## Functionality
@@ -14,3 +16,4 @@ You basically copy and paste the [Level Thumbnails Dashboard](https://levelthumb
   
 ### *[Download!](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/raw/refs/heads/main/media/tjc47.better_level_thumbnails.geode)*
 
+[![Home](https://github.com/user-attachments/assets/9b815cee-9432-4dce-9c03-c8c904472c93)](README.md)
