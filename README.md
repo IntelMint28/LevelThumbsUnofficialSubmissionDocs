@@ -10,7 +10,11 @@ Hello! These are the unnofficial Level Thumbnails submission documentation! A Ge
 
 ### [Errors Explanation](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/blob/main/errors.md)
 
-## Other Resources
+## Misc resources:
+
+### [Better Level Thumbnails](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/blob/main/blt.md)
+
+## Support Level Thumbnails!
 
 ### [Level Thumbnails Discord Server](https://discord.gg/hHeY5D6cJg)
 
