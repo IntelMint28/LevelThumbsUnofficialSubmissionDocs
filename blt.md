@@ -13,7 +13,11 @@ You basically copy and paste the [Level Thumbnails Dashboard](https://levelthumb
 ## Depencencies
 - Level Thumbnails mod
 - Linked GD account to mod
-  
+
+## Misc links
 ### *[Download!](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/raw/refs/heads/main/media/tjc47.better_level_thumbnails.geode)*
+
+### *[GitHub Repo](https://github.com/TJC47/betterThumbnails)*
+
 
 [![Home](https://github.com/user-attachments/assets/9b815cee-9432-4dce-9c03-c8c904472c93)](README.md)
