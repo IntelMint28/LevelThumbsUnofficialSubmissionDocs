@@ -16,4 +16,7 @@ You will see something like this. follow the steps provided by the website.
 
 and there you go!
 
+### You don't want to log in?
+you can still use the BetterThumbnails API URL, just go to the Level Thumbnails settings and change the Thumbnails URL to [https://tjcsucht.net/betterthumbnails](https://tjcsucht.net/betterthumbnails). Make sure you have the Legacy URL option to disabled.
+
 [![Home](https://github.com/user-attachments/assets/9b815cee-9432-4dce-9c03-c8c904472c93)](README.md)
