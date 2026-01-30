@@ -4,7 +4,7 @@
 This short guide will follow you through the process of linking your Geometry Dash account to TJC42's BetterThumbnails.
 
 ## How to login!!
-> (no screenshots for now sorry!)
+> (no ingame screenshots for now sorry!)
 
 to Link your Geometry Dash account with TJC's BetterThumbnails, go to https://tjcsucht.net/better_submit (this is the submission website, but if you do not have an account linked then you will be redirected to the login page)
 
