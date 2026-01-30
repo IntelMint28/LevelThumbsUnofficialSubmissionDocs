@@ -17,7 +17,7 @@ You basically copy and paste the [Level Thumbnails Dashboard](https://levelthumb
 ## Misc links
 ### *[Download!](https://tjcsucht.net/static/software/tjc47.better_level_thumbnails.geode)* (recommended by tjc)
 
-### *[Download! (Mirror)](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/raw/refs/heads/main/media/tjc47.better_level_thumbnails.geode)*
+### *[Download! (Unnoficial Mirror)](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/raw/refs/heads/main/media/tjc47.better_level_thumbnails.geode)*
 
 ### *[GitHub Repo](https://github.com/TJC47/betterThumbnails)*
 
