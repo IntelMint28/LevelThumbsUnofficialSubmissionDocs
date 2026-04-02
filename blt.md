@@ -14,11 +14,17 @@ You basically copy and paste the [Level Thumbnails Dashboard](https://levelthumb
 - Level Thumbnails mod
 - Linked GD account to mod
 
-## Misc links
+## Supported Devices
+- PC ✅
+- Android ❌
+- iOS ❌
+
+## Download links
 ### *[Download!](https://tjcsucht.net/static/software/tjc47.better_level_thumbnails.geode)* (recommended by tjc)
 
 ### *[Download! (Unnoficial Mirror)](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/raw/refs/heads/main/media/tjc47.better_level_thumbnails.geode)*
-
+> **NOTE:** This link is likely outdated. Preferably install the official version.
+## Other links
 ### *[GitHub Repo](https://github.com/TJC47/betterThumbnails)*
 
 [![Next](https://github.com/user-attachments/assets/88010d40-4533-432b-8553-99c4bd85ce0c)](bltloginsteps.md)
