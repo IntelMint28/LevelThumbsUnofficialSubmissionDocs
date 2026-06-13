@@ -49,8 +49,34 @@ If you are ***NOT*** a **Verified Thumbnailer**, do not even try to do the thing
 
 > Source: @heiieon on Discord, #chat-en
 
-I sadly do not know what this error can mean on any context. If you encounter this error, contact one of the mod developers.
+This means something has gotten wrong in your client. In order to fix this issue (quoted from cdc's message):
+
+**Windows** %localappdata%/GeometryDash/geode/mods/cdc.level_thumbnails
+
+**Mac** /Users/yourname/Library/Application Support/GeometryDash/geode/mods/cdc.level_thumbnails
+
+and delete the **saved.json** file
+
+# Other misc errors/warnings you can get
+## You are trying to take a screenshot very close to the level start
+<img width="567" height="400" alt="image" src="https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/blob/main/media/WA_1781367785014.jpeg" />
 
 
+You are basically trying to take a thumbnail from the very start of the level. Try finding a good spot more advanced at the level, or just continue if no good spot to screenshot is available.
+
+## You cannot take a thumbnail while the player is dead
+<img width="567" height="400" alt="image" src="https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/blob/main/media/WA_1781367800130.jpeg" />
+
+You are trying to take a thumbnail while you just died/you're inside a hazard like a spike, saw or monster.
+
+Try to take the thumbnail from a spot where the player isn't touching any hazards.
+
+## Screenshot Error: Thumbnails can only be taken with High Graphics quality enabled. Please enable it in the settings and try again.
+> No screenshot available
+
+If you try to take a thumbnail and you get this error, it means you are playing and taking the thumbnail on a lower resolution rather than high.
+
+* If you are on PC, go to the Geometry Dash settings, then Graphics, and change your textures quality to high.
+* If you are on a Smartphone device, go to the geode menu and install [High Graphics on Mobile](https://geode-sdk.org/mods/weebify.high-graphics-android). Then perform the steps like in PC.
 
 [![Home](https://github.com/user-attachments/assets/9b815cee-9432-4dce-9c03-c8c904472c93)](README.md)
