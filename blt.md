@@ -16,7 +16,7 @@ You basically copy and paste the [Level Thumbnails Dashboard](https://levelthumb
 
 ## Supported Devices
 - PC ✅
-- Android ❌
+- Android ✅
 - iOS ❌
 
 ## Download links
