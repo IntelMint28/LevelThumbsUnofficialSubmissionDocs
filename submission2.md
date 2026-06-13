@@ -21,8 +21,18 @@ Play through a decent bit of the level, then once you reach a part that you feel
 
 Here's a video tutorial, in case you need it!
 
-> **Video by dermuk**
+> **Video by worra**
 
 https://github.com/user-attachments/assets/6be9e63b-76ac-4999-9414-1f77755e60e1
+
+## Other recent additions for thumbnail submissions
+### Submission Notes
+
+You can attach an optional short message to your submission to give context to the Thumbnail Moderators. This is mainly useful for telling us why you're submitting a replacement thumbnail for a level.
+
+You can open the submission note menu by clicking the button in the bottom right of the screenshot menu:
+
+<img width="1077" height="668" alt="image" src="https://github.com/user-attachments/assets/3baacd82-4aa4-4584-bbc2-ee6f9a64b457" /><img width="808" height="480" alt="image" src="https://github.com/user-attachments/assets/d636c140-d8f2-4a61-8a2c-ef052f1961b6" />
+
 
 [![Home](https://github.com/user-attachments/assets/9b815cee-9432-4dce-9c03-c8c904472c93)](README.md)
