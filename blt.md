@@ -27,4 +27,6 @@ You basically copy and paste the [Level Thumbnails Dashboard](https://levelthumb
 
 [![Next](https://github.com/user-attachments/assets/88010d40-4533-432b-8553-99c4bd85ce0c)](bltloginsteps.md)
 
+[Measurements](https://github.com/IntelMint28/LevelThumbsUnofficialSubmissionDocs/blob/main/blt3.md)
+
 [![Home](https://github.com/user-attachments/assets/9b815cee-9432-4dce-9c03-c8c904472c93)](README.md)
